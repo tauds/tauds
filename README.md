@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tauds
-- 👀 I’m interested in Data Science and aspiring to be a Data Science
-- 🌱 I’m currently learning Python, R, SQL via DataCamp
+- 👋 Hi, I’m Tim Audsley from Sydney, Australia (@tauds)
+- 👀 I’m love working with data and finding useful insights. I'm very focused and interested in Data Science.
+- 🌱 I’m a strong believer in being a mentee, mentor, student and teacher. I'm constently learning new things everyday about all things data. 
 
 
 <!---
